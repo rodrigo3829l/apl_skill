@@ -1,0 +1,85 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "DescriptionIntent",
+          "samples": [
+            "I want you to describe tokio",
+            "give me a description",
+            "Tell me a description of tokio"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "PlacesIntent",
+          "samples": [
+            "tell me places to visit",
+            "I want to know tourist places",
+            "tell me tourist places in tokio"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FoodIntent",
+          "samples": [
+            "tell me about the food of this place",
+            "tell me the typical food of tokio"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CostumeIntent",
+          "samples": [
+            "what is their typical dress",
+            "how do they dress",
+            "tell me about the costume of this place"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CharactersIntent",
+          "samples": [
+            "tell me some characters",
+            "who are the most outstanding characters"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicIntent",
+          "samples": [
+            "I want to listen to the typical music of tokio",
+            "I want to listen to something from tokio"
+          ]
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "invocationName": "information about tokio"
+    }
+  }
+}
